@@ -1,0 +1,8 @@
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom styles go here */
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoidGFpbHdpbmQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogc3R5bGVzLmNzcyAqL1xuQGltcG9ydCAndGFpbHdpbmRjc3MvYmFzZSc7XG5AaW1wb3J0ICd0YWlsd2luZGNzcy9jb21wb25lbnRzJztcbkBpbXBvcnQgJ3RhaWx3aW5kY3NzL3V0aWxpdGllcyc7XG5cbi8qIFlvdXIgY3VzdG9tIHN0eWxlcyBnbyBoZXJlICovXG4iXX0= */
